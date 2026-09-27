@@ -60,36 +60,25 @@ Instructions for testing
 * Test a tie game, where all positions are filled, but there is no winner.
 * Attempt to make an illegal move, by choosing an already taken position.
 * Check if the game displays the winner correctly.
+## Screenshots
+
+### Code 1
+
+![Code 1](code_1.png)
+
+### Code 2
+
+![Code 2](code_2.png)
+
+### Output 1
+
+![Output 1](output_1.png)
+
+### Output 2
+
+![Output 2](output_2.png)
 
 
-
-Screenshots
-
-\## Screenshots
-
-
-
-\### Code 1
-
-!\[Code 1](code\_1.png)
-
-
-
-\### Code 2
-
-!\[Code 2](code\_2.png)
-
-
-
-\### Output 1
-
-!\[Output 1](output\_1.png)
-
-
-
-\### Output 2
-
-!\[Output 2](output\_2.png)
 
 
 
